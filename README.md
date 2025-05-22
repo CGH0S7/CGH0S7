@@ -22,10 +22,19 @@ I'm an undergraduate student with a strong interest in computer architecture, hi
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Clear%20Linux-0078D4?style=for-the-badge&logo=intel&logoColor=white" alt="Clear Linux" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Helix-007ACC?style=for-the-badge&logo=helix&logoColor=white" alt="Helix" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU" />
 </p>
+
+---
+
+## 💻 Favorite Distro
+
+![CachyOS](https://cachyos.org/_astro/logo.DVTdAJi6.svg)  
+"Blazingly Fast & Customizable Linux distribution". A performance-focused Linux distribution based on Arch Linux, optimized for speed and responsiveness.
+
+🔗 [Official Website](https://cachyos.org)
 
 ---
 
