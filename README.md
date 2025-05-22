@@ -7,21 +7,25 @@ I'm an undergraduate student with a strong interest in computer architecture, hi
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Frameworks  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B)  
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)  
-![Chisel](https://img.shields.io/badge/Chisel-DC322F?style=flat-square&logo=scala)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
+### 💻 Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Chisel-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Chisel" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
 
-### 🧰 Tools & Platforms  
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux)  
-![Clear Linux](https://img.shields.io/badge/Clear%20Linux-0078D4?style=flat-square&logo=intel)  
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim)  
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code)  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi)  
-![QEMU](https://img.shields.io/badge/QEMU-2C3E50?style=flat-square)
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Clear%20Linux-0078D4?style=for-the-badge&logo=intel&logoColor=white" alt="Clear Linux" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU" />
+</p>
 
 ---
 
