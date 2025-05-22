@@ -29,7 +29,7 @@ I'm an undergraduate student with a strong interest in computer architecture, hi
 
 ---
 
-## 💻 Favorite Distro
+## 🐧 Favorite Distro
 
 ![CachyOS](https://cachyos.org/_astro/logo.DVTdAJi6.svg)  
 "Blazingly Fast & Customizable Linux distribution". A performance-focused Linux distribution based on Arch Linux, optimized for speed and responsiveness.
