@@ -73,7 +73,7 @@ In my free time, I enjoy making music with my Roland A-49 MIDI keyboard, using L
 
 ## 📫 Contact
 
-- Email: `r8isgi4w@anonaddy.me`
+- Email: `jasoncheng@hifuu.ink`
 
 > *"And you won't know unless we keep on trying."*
 
