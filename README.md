@@ -11,6 +11,7 @@ I'm an undergraduate student with a strong interest in computer architecture, hi
 <p align="left">
   <img src="https://img.shields.io/badge/C-0987AA?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Go-007D9C?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Chisel-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Chisel" />
@@ -20,6 +21,7 @@ I'm an undergraduate student with a strong interest in computer architecture, hi
 ### 🧰 Tools & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Rocky%20Linux-00B981?style=for-the-badge&logo=rockylinux&logoColor=white" alt="Rocky Linux" />
   <img src="https://img.shields.io/badge/Clear%20Linux-0078D4?style=for-the-badge&logo=intel&logoColor=white" alt="Clear Linux" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
   <img src="https://img.shields.io/badge/Helix-007ACC?style=for-the-badge&logo=helix&logoColor=white" alt="Helix" />
@@ -29,12 +31,18 @@ I'm an undergraduate student with a strong interest in computer architecture, hi
 
 ---
 
-## 🐧 Favorite Distro
+## 🐧 Favorite Distro & Desktop Environment
 
 ![CachyOS](https://cachyos.org/_astro/logo.DVTdAJi6.svg)  
-"Blazingly Fast & Customizable Linux distribution". A performance-focused Linux distribution based on Arch Linux, optimized for speed and responsiveness.
+"Blazingly Fast & Customizable Linux distribution". A performance-focused Linux distribution based on Arch Linux, optimized for speed and responsiveness. CachyOS is bae, best distro imo!
 
 🔗 [Official Website](https://cachyos.org)
+
+![KDE](https://kde.org/stuff/clipart/logo/kde-logo-white-blue-rounded-source.svg)
+
+Use Plasma to surf the web; keep in touch with colleagues, friends and family; manage your files, enjoy music and videos; and get creative and productive at work. Do it all in a beautiful environment that adapts to your needs, and with the safety, privacy-protection and peace of mind that the best Free Open Source Software has to offer.
+
+🔗 [Official Website](https://kde.org/plasma-desktop/)
 
 ---
 
@@ -61,11 +69,14 @@ I'm an undergraduate student with a strong interest in computer architecture, hi
 - Radiohead
 - Linkin Park
 - Yorushika
+- Neck Deep
+- Togenashi Togeari
+
 And so forth...
   
 In my free time, I enjoy making music with my Roland A-49 MIDI keyboard, using LMMS as my digital audio workstation. No band invites in my school so far, but hope lives on — lol.
 
----
+--- 
 
 ## 📫 Contact
 
