@@ -38,7 +38,7 @@ I'm an undergraduate student with a strong interest in computer architecture, hi
 
 🔗 [Official Website](https://cachyos.org)
 
-![KDE](https://kde.org/stuff/clipart/logo/kde-logo-white-blue-rounded-source.svg)
+![KDE](https://kde.org/stuff/clipart/logo/kde-logo-white-blue-rounded-128x128.png)
 
 Use Plasma to surf the web; keep in touch with colleagues, friends and family; manage your files, enjoy music and videos; and get creative and productive at work. Do it all in a beautiful environment that adapts to your needs, and with the safety, privacy-protection and peace of mind that the best Free Open Source Software has to offer.
 
