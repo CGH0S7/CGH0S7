@@ -12,8 +12,8 @@ I'm an undergraduate student with a strong interest in computer architecture, hi
   <img src="https://img.shields.io/badge/C-0987AA?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Go-007D9C?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-E43B26?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-3773A3?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Chisel-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Chisel" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
@@ -31,18 +31,12 @@ I'm an undergraduate student with a strong interest in computer architecture, hi
 
 ---
 
-## 🐧 Favorite Distro & Desktop Environment
+## 🐧 Favorite Distro
 
 ![CachyOS](https://cachyos.org/_astro/logo.DVTdAJi6.svg)  
 "Blazingly Fast & Customizable Linux distribution". A performance-focused Linux distribution based on Arch Linux, optimized for speed and responsiveness. CachyOS is bae, best distro imo!
 
 🔗 [Official Website](https://cachyos.org)
-
-![KDE](https://kde.org/stuff/clipart/logo/kde-logo-white-blue-rounded-128x128.png)
-
-Use Plasma to surf the web; keep in touch with colleagues, friends and family; manage your files, enjoy music and videos; and get creative and productive at work. Do it all in a beautiful environment that adapts to your needs, and with the safety, privacy-protection and peace of mind that the best Free Open Source Software has to offer.
-
-🔗 [Official Website](https://kde.org/plasma-desktop/)
 
 ---
 
@@ -66,7 +60,6 @@ Use Plasma to surf the web; keep in touch with colleagues, friends and family; m
 - Queen
 - Pink Floyd
 - The Beatles
-- Radiohead
 - Linkin Park
 - Yorushika
 - Neck Deep
