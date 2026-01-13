@@ -44,6 +44,7 @@ I'm an undergraduate student with a strong interest in computer architecture, hi
 
 - 🥇 **ASC 24 First Prize (Rank 5)** – Lead developer for the *OpenCAEPoro* problem  
 - 🥇 **ASC 25 First Prize (Rank 19)** – Responsible for cluster operations and performance tuning
+- 🥉 **NSCSCC 2025 Third Prize (Rank 15)** - Spearheaded mid-end optimization and back-end adaptation in the RISC-V compiler design contest
 
 ---
 
@@ -56,20 +57,27 @@ I'm an undergraduate student with a strong interest in computer architecture, hi
 
 ---
 
-## 🎸 Band
-- Queen
-- Pink Floyd
+## 🎸 Bands
 - The Beatles
 - Linkin Park
-- Yorushika
 - Neck Deep
-- Togenashi Togeari
+- Yorushika
 
 And so forth...
   
 In my free time, I enjoy making music with my Roland A-49 MIDI keyboard, using LMMS as my digital audio workstation. No band invites in my school so far, but hope lives on — lol.
 
 --- 
+
+## 🎮 Games
+- Xenoblade Chronicles
+- Fire Emblem
+- Trails in the Sky
+- Persona
+
+A JRPG enthusiast :D
+
+---
 
 ## 📫 Contact
 
