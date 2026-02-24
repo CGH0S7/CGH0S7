@@ -33,7 +33,7 @@ I'm an undergraduate student with a strong interest in computer architecture, hi
 
 ## 🐧 Favorite Distro
 
-![CachyOS](https://cachyos.org/_astro/logo.DVTdAJi6.svg)  
+![CachyOS](https://cachyos.org/_astro/logo.DuMERIP6.svg)  
 "Blazingly Fast & Customizable Linux distribution". A performance-focused Linux distribution based on Arch Linux, optimized for speed and responsiveness. CachyOS is bae, best distro imo!
 
 🔗 [Official Website](https://cachyos.org)
