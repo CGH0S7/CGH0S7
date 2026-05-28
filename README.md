@@ -73,7 +73,7 @@ And so forth...
   
 In my free time, I enjoy making music with my Roland A-49 MIDI keyboard, using LMMS as my digital audio workstation. No band invites in my school so far, but hope lives on — lol.
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=hi6doqlbplqc1akrfgxqv49ad&count=5)
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=hi6doqlbplqc1akrfgxqv49ad&count=5) -->
 
 --- 
 
