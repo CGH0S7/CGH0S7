@@ -55,6 +55,11 @@ I'm an undergraduate student with a strong interest in computer architecture, hi
 - 🎹 **Yasunori Mitsuda**  
 - 🧋 **Jay Chou**
 - ◢◤ **Avicii**
+<p align="left">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=hi6doqlbplqc1akrfgxqv49ad&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hi6doqlbplqc1akrfgxqv49ad&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+  </a>
+</p>
 
 ---
 
@@ -67,6 +72,8 @@ I'm an undergraduate student with a strong interest in computer architecture, hi
 And so forth...
   
 In my free time, I enjoy making music with my Roland A-49 MIDI keyboard, using LMMS as my digital audio workstation. No band invites in my school so far, but hope lives on — lol.
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=hi6doqlbplqc1akrfgxqv49ad&count=5)
 
 --- 
 
