@@ -31,7 +31,6 @@ I'm an undergraduate student with a strong interest in computer architecture, hi
   <img src="https://img.shields.io/badge/Helix-007ACC?style=for-the-badge&logo=helix&logoColor=white" alt="Helix" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU" />
-
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Intel_oneAPI-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel oneAPI" />
@@ -49,10 +48,17 @@ I'm an undergraduate student with a strong interest in computer architecture, hi
 
 ## 🐧 Favorite Distro
 
-![CachyOS](https://cachyos.org/_astro/logo.DuMERIP6.svg)  
-"Blazingly Fast & Customizable Linux distribution". A performance-focused Linux distribution based on Arch Linux, optimized for speed and responsiveness. CachyOS is bae, best distro imo!
+<a href="https://cachyos.org">
+  <img align="right" src="https://cachyos.org/_astro/logo.DuMERIP6.svg" width="140" alt="CachyOS Logo" />
+</a>
 
-🔗 [Official Website](https://cachyos.org)
+**"Blazingly Fast & Customizable Linux distribution"**
+
+A performance-focused Linux distribution based on Arch Linux, optimized for speed and responsiveness. CachyOS is bae, best distro imo!
+
+🔗 [CachyOS Official Website](https://cachyos.org)
+
+<br clear="both" />
 
 ---
 
@@ -65,49 +71,68 @@ I'm an undergraduate student with a strong interest in computer architecture, hi
 
 ---
 
-## 🎧 Favorite Musicians
+## 🎸 Interests & Hobbies
 
-- 🐻 **Hikaru Utada**  
-- 🎹 **Yasunori Mitsuda**  
-- 🧋 **Jay Chou**
-- ◢◤ **Avicii**
-<p align="left">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=hi6doqlbplqc1akrfgxqv49ad&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hi6doqlbplqc1akrfgxqv49ad&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎧 Music & Bands</h3>
+      <ul>
+        <li>Hikaru Utada</li>
+        <li>Yasunori Mitsuda</li>
+        <li>Green Day</li>
+        <li>Neck Deep</li>
+      </ul>
+      <p><i>In my free time, I enjoy making music with my Roland A-49 MIDI keyboard, using LMMS as my DAW. No band invites in my school so far, but hope lives on — lol.</i></p>
+      <br>
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=hi6doqlbplqc1akrfgxqv49ad&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hi6doqlbplqc1akrfgxqv49ad&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+      </a>
+    </td>
+      <td width="50%" valign="top">
+      <h3>🎮 Games</h3>
+      <ul>
+        <li>Xenoblade Chronicles</li>
+        <li>Fire Emblem</li>
+        <li>Trails in the Sky</li>
+        <li>Persona</li>
+      </ul>
+        <p><i>My main gaming platforms are Nintendo Switch and Steam. I'm passionate about JRPGs and multiplayer co-op games :D</i></p>
+      <br>
+<!-- Steam 卡片 -->
+      <a href="https://steamcommunity.com/profiles/76561199033763458" target="_blank">
+        <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199033763458"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=CGH0S7&show_icons=true&theme=tokyonight)
+<!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CGH0S7&layout=compact&theme=tokyonight) -->
+
+---
+
+## 📫 Contact & Links
+
+<p align="center">
+  <a href="mailto:jasoncheng@hifuu.ink">
+    <img src="https://img.shields.io/badge/Email-jasoncheng@hifuu.ink-0AC1FD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.hifuu.ink">
+    <img src="https://img.shields.io/badge/Resume-www.hifuu.ink-CEA152?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://blog.hifuu.ink">
+    <img src="https://img.shields.io/badge/Blog-blog.hifuu.ink-1793D1?style=for-the-badge&logo=hexo&logoColor=white" alt="Blog" />
   </a>
 </p>
 
----
-
-## 🎸 Bands
-- The Beatles
-- Linkin Park
-- Neck Deep
-- Green Day
-
-And so forth...
-  
-In my free time, I enjoy making music with my Roland A-49 MIDI keyboard, using LMMS as my digital audio workstation. No band invites in my school so far, but hope lives on — lol.
-
-<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=hi6doqlbplqc1akrfgxqv49ad&count=5) -->
-
---- 
-
-## 🎮 Games
-- Xenoblade Chronicles
-- Fire Emblem
-- Trails in the Sky
-- Persona
-
-A JRPG enthusiast :D
-
----
-
-## 📫 Contact
-
-- Email: `jasoncheng@hifuu.ink`
-
-> *"And you won't know unless we keep on trying."*
+<p align="center">
+  <i>"And you won't know unless we keep on trying."</i>
+</p>
 
 <!--
 **CGH0S7/CGH0S7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
