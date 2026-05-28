@@ -45,6 +45,7 @@ I'm an undergraduate student with a strong interest in computer architecture, hi
 - 🥇 **ASC 24 First Prize (Rank 5)** – Lead developer for the *OpenCAEPoro* problem  
 - 🥇 **ASC 25 First Prize (Rank 19)** – Responsible for cluster operations and performance tuning
 - 🥉 **NSCSCC 2025 Third Prize (Rank 15)** - Spearheaded mid-end optimization and back-end adaptation in the RISC-V compiler design contest
+- 🥇 **ASC 26 First Prize (Rank 10)**: As team captain, led cluster design, performance/power tuning, and GPU porting of the *AMSS-NCKU* numerical relativity simulation.
 
 ---
 
@@ -61,7 +62,7 @@ I'm an undergraduate student with a strong interest in computer architecture, hi
 - The Beatles
 - Linkin Park
 - Neck Deep
-- Yorushika
+- Green Day
 
 And so forth...
   
